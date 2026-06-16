@@ -1,6 +1,7 @@
 # Privacy Policy
   
   **Effective date:** 2026-06-16
+  
   **Last updated:** 2026-06-16
 
   This Privacy Policy describes how Remember4Me ("we", "us", "the app") handles
